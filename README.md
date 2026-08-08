@@ -1,14 +1,22 @@
 # Security Notes
 
-Este repositório contém minhas anotações e estudos em segurança de aplicações web.
+Repositório utilizado para registrar estudos e anotações sobre Segurança da Informação.
 
-## Conteúdo
+Conteúdo
 
-- Fundamentos de Web Security
-- Vulnerabilidades OWASP Top 10
-- Ferramentas de segurança
-- Notas de laboratórios práticos
+Os conteúdos são adicionados conforme avanço na minha formação, incluindo:
 
-## Objetivo
+- Fundamentos de Segurança da Informação
+- Segurança de aplicações
+- Vulnerabilidades
+- Laboratórios e exercícios práticos
+- Ferramentas estudadas
+- Conceitos e referências técnicas
 
-Organizar e documentar meu aprendizado em Application Security (AppSec) e Web Security.
+Sobre este repositório
+
+Este repositório acompanha minha evolução durante a formação prática em Segurança da Informação.
+
+Alguns conteúdos representam estudos anteriores, enquanto outros serão adicionados conforme avanço no meu roadmap de estudos.
+
+O objetivo é manter um registro organizado do que estou aprendendo e praticando.
