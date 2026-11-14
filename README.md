@@ -1,22 +1,18 @@
-# Security Notes
+# 📓 Security Notes
 
-Repositório utilizado para registrar estudos e anotações sobre Segurança da Informação.
+Anotações dos meus estudos de Segurança da Informação, organizadas por tema e escritas com minhas palavras para fixar o conteúdo.
 
-Conteúdo
+## 📚 Notas
 
-Os conteúdos são adicionados conforme avanço na minha formação, incluindo:
+| Tema | Status | Nota |
+|:---|:---:|:---:|
+| Tríade CIA | ✅ | [Ler](notas/triade-cia.md) |
+| CVE e CVSS | 🔜 | |
+| OWASP Top 10 | 🔜 | |
+| MITRE ATT&CK | 🔜 | |
+| Análise de logs | 🔜 | |
 
-- Fundamentos de Segurança da Informação
-- Segurança de aplicações
-- Vulnerabilidades
-- Laboratórios e exercícios práticos
-- Ferramentas estudadas
-- Conceitos e referências técnicas
+## 🧭 Como organizo
 
-Sobre este repositório
-
-Este repositório acompanha minha evolução durante a formação prática em Segurança da Informação.
-
-Alguns conteúdos representam estudos anteriores, enquanto outros serão adicionados conforme avanço no meu roadmap de estudos.
-
-O objetivo é manter um registro organizado do que estou aprendendo e praticando.
+- Uma pasta `notas/`, com um arquivo por tema
+- O plano geral de estudos está no [security-roadmap](https://github.com/juliana-silva-hub/security-roadmap)
